@@ -9,7 +9,7 @@ body
 {
     background-color: #43AFFC;
     display: flex;
-    padding:0px 10px;
+    padding:0px 15px;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
